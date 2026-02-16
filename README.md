@@ -1,4 +1,4 @@
-EditorConfig Live Demo
+https://market-qx.trade/en/demo-tradeEditorConfig Live Demo
 ======================
 
 An in-browser demo of EditorConfig.
